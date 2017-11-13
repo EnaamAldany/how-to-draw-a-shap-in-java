@@ -1,0 +1,2 @@
+# how-to-draw-a-shap-in-java
+E2.9 In the Java library, a color is specified by its red, green, and blue components between 0 and 255 (see Table 4 on page 66). Write a program BrighterDemo that constructs a Color object with red, green, and blue values of 50, 100, and 150. Then apply the brighter method of the Color class and print the red, green, and blue values of the resulting color. (You won’t actually see the color—see Exercise E2.10 on how to display the color.)
